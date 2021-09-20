@@ -22,12 +22,12 @@ img {
     margin: 25px 0;
 }
 
-.quote {
+#charQuote {
     font-style: italic;
     margin-bottom: 30px;
 }
 
-.search {
+#searchBtn {
     padding: 8px 15px;
     background-color: #48743F;
     color: white;
